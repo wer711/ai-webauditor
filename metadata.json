@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Web Auditor",
+  "description": "An intelligent web application that analyzes any webpage for SEO, performance, security, accessibility, and e-commerce readiness. Enter a URL to receive a comprehensive audit report powered by Gemini, complete with scores, identified issues, and actionable recommendations.",
+  "requestFramePermissions": []
+}
